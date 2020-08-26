@@ -5,6 +5,8 @@
 
 * Learn AWS services and deploy a serverless web app.
 
+* Visit at : https://master.d3iqkjg7yx3lo4.amplifyapp.com/
+
 ## Overview
 In this tutorial, you'll create a simple serverless web application that enables users to request unicorn rides from the Wild Rydes fleet. 
 The application will present users with an HTML based user interface for indicating the location where they would like to be picked up and 
@@ -17,3 +19,10 @@ Amplify Console provides continuous deployment and hosting of the static web res
 are loaded in the user's browser. JavaScript executed in the browser sends and receives data from a public backend API built using Lambda and API Gateway. 
 Amazon Cognito provides user management and authentication functions to secure the backend API. Finally, DynamoDB provides a persistence layer where data 
 can be stored by the API's Lambda function.
+
+
+## How to use
+
+1. Sign up
+2. Confirm via email (verfication code)
+3. Hail a unicorn
